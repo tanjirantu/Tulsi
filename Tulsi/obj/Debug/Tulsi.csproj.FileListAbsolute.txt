@@ -1,0 +1,17 @@
+c:\users\tanjir\documents\visual studio 2013\Projects\Tulsi\Tulsi\bin\Debug\Tulsi.exe.config
+c:\users\tanjir\documents\visual studio 2013\Projects\Tulsi\Tulsi\bin\Debug\Tulsi.exe
+c:\users\tanjir\documents\visual studio 2013\Projects\Tulsi\Tulsi\bin\Debug\Tulsi.pdb
+c:\users\tanjir\documents\visual studio 2013\Projects\Tulsi\Tulsi\bin\Debug\MetroFramework.Design.dll
+c:\users\tanjir\documents\visual studio 2013\Projects\Tulsi\Tulsi\bin\Debug\MetroFramework.dll
+c:\users\tanjir\documents\visual studio 2013\Projects\Tulsi\Tulsi\bin\Debug\MetroFramework.Fonts.dll
+c:\users\tanjir\documents\visual studio 2013\Projects\Tulsi\Tulsi\obj\Debug\Tulsi.Login.resources
+c:\users\tanjir\documents\visual studio 2013\Projects\Tulsi\Tulsi\obj\Debug\Tulsi.Properties.Resources.resources
+c:\users\tanjir\documents\visual studio 2013\Projects\Tulsi\Tulsi\obj\Debug\Tulsi.csproj.GenerateResource.Cache
+c:\users\tanjir\documents\visual studio 2013\Projects\Tulsi\Tulsi\obj\Debug\Tulsi.exe
+c:\users\tanjir\documents\visual studio 2013\Projects\Tulsi\Tulsi\obj\Debug\Tulsi.pdb
+C:\Users\Tanjir\documents\visual studio 2013\Projects\Tulsi\Tulsi\obj\Debug\Tulsi.POS.resources
+C:\Users\Tanjir\documents\visual studio 2013\Projects\Tulsi\Tulsi\obj\Debug\Tulsi.RegistrationForm.resources
+C:\Users\Tanjir\documents\visual studio 2013\Projects\Tulsi\Tulsi\obj\Debug\Tulsi.Receipt.resources
+C:\Users\Tanjir\documents\visual studio 2013\Projects\Tulsi\Tulsi\obj\Debug\Tulsi.Dashboard.resources
+C:\Users\Tanjir\documents\visual studio 2013\Projects\Tulsi\Tulsi\obj\Debug\Tulsi.TransactionReport.resources
+C:\Users\Tanjir\documents\visual studio 2013\Projects\Tulsi\Tulsi\obj\Debug\Tulsi.ManageInventory.resources
